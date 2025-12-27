@@ -15,7 +15,7 @@ import Lottie from "react-lottie";
 import io from "socket.io-client";
 import UpdateGroupChatModal from "./miscellaneous/UpdateGroupChatModal";
 import { ChatState } from "../Context/ChatProvider";
-const ENDPOINT = "http://localhost:5000"; // "https://talk-a-tive.herokuapp.com"; -> After deployment
+const ENDPOINT = "https://chat-app-0ck5.onrender.com"; 
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {
