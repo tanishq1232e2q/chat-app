@@ -6,6 +6,7 @@
   "dependencies": {
     "@chakra-ui/icons": "^1.0.13",
     "@chakra-ui/react": "^1.6.2",
+     "@chakra-ui/tag": "^3.1.1",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@testing-library/jest-dom": "^5.11.4",
@@ -14,6 +15,7 @@
     "axios": "^0.21.1",
     "chat-app": "file:..",
     "framer-motion": "^4",
+    "lottie-react": "^2.4.1",
     "react": "^17.0.2",
     
     "react-dom": "^17.0.2",
